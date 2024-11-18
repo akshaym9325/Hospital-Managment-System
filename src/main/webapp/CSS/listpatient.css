@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+	body {
+		background-image: url("../Images/Medical.jpg");
+		background-size: cover;
+		background-attachment: fixed;
+	}
+	.table-container {
+		max-height: 800px;
+		overflow-y: auto;
+		border-radius: 20px;
+	}
+	
+	thead{
+		height: 60px;
+		line-height: 60px;
+	}
+
+	thead th {
+      	position: sticky;
+		top: 0;
+    	z-index: 1;
+  	}

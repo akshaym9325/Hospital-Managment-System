@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+body{
+	background-image: url("../Images/Medical.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.card{
+	border: 1px solid white;
+	transition: transform 0.3s;
+}
+
+.card:hover{
+	transform : scale(1.05);
+}

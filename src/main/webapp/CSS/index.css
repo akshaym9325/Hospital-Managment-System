@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+		body{
+				background-image: url("../Images/Medical.jpg");
+		        background-size: cover;
+		        background-attachment: fixed;
+		}
+		.heading {
+			    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
+			    font-weight: bold;
+			    font-size: 3rem;
+		}
+        .myForm {
+            padding: 2rem;
+            border-radius: 10px;
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+        }

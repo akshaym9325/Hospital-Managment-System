@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+ 		body {
+            background-image: url("../Images/Medical.jpg");
+            background-size: cover;
+            background-attachment: fixed;
+        }
+        .heading {
+            color: #fff;
+            text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
+            font-weight: bold;
+            font-size: 3rem;
+        }
+        .signup-container {
+  			background: #fff;
+            padding: 2rem;
+            border-radius: 10px;
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+        }
+        .account{
+        	text-decoration: none;
+        	color: black;
+        }
+        .account:hover{
+        	text-decoration: underline;
+        }
+        .form-control{
+        	border: none;
+        	border-bottom : 1px solid; 
+        }
+        .btn-primary {
+            transition: background 0.3s;
+        }
+        .btn-primary:hover {
+            background: #0056b3;
+            border-color: #0056b3;
+        }
