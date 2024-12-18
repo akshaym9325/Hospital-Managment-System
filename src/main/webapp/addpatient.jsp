@@ -25,7 +25,7 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mx-auto">
                 <li class="nav-item mx-3">
-                    <a class="nav-link" href="index.jsp">Home</a>
+                    <a class="nav-link" href="index.html">Home</a>
                 </li>
                 
                 <li class="nav-item dropdown mx-3">

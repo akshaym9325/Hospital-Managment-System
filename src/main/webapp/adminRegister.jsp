@@ -25,7 +25,7 @@
 
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav ms-auto" style="margin-right: 30px;">
-                <a class="nav-link" href="index.jsp">Home</a>
+                <a class="nav-link" href="index.html">Home</a>
                 <a class="nav-link" href="adminLogin.jsp">Admin</a>
             </div>
         </div>
